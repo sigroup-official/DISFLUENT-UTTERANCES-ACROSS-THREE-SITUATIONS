@@ -1,0 +1,23 @@
+﻿id,audio,disfluency_pattern,romaji,japanese
+1,audio/output_3.wav,Prolongation/Continuation,Buka<PR>resuto deshi ta kke,ブカーレストでしたっけ。
+2,audio/output_17a.wav,Long Prolongation/Continuation,Buka<LG-PR>resuto deshi ta kke,ブカーーーレストでしたっけ。
+3,audio/output_11.wav,Prolongation/Restart,Buka<PR><RST>Bukaresuto deshi ta kke,ブカーブカレストでしたっけ。
+4,audio/output_65.wav,Prolongations throughout the Word,Bu<PR>ka<PR>re<PR>su<PR>to<PR> deshi ta kke,ブーカーレースートーでしたっけ。
+5,audio/output_8.wav,Suspension/Continuation,Buka<SP>resuto deshi ta kke,ブカ、レストでしたっけ。
+6,audio/output_18b.wav,Long Suspension/Continuation,Buka<LG-SP>resuto deshi ta kke,ブカ、、、レストでしたっけ。
+7,audio/output_50.wav,Suspension/Restart,Buka<SP><RST> Bukaresuto deshi ta kke,ブカ、ブカレストでしたっけ。
+8,audio/output_67.wav,Suspensions throughout the Word,Bu<SP>ka<SP>re<SP>su<SP>to<SP> deshi ta kke,ブ、カ、レ、ス、ト、でしたっけ。
+9,audio/output_24.wav,Word-initial Filler,<FILL>Bukaresuto deshi ta kke,えーブカレストでしたっけ。
+10,audio/output_30.wav,Word-initial Long Filler,<LG-FILL>Bukaresuto deshi ta kke,えーーーブカレストでしたっけ。
+11,audio/output_29b.wav,Word-internal Filler,Buka<FILL>resuto deshi ta kke,ブカえーレストでしたっけ。
+12,audio/output_4.wav,Prolongation/Continuation with SP,Buka<PR>resuto deshi<SP> ta kke,ブカーレストでし、たっけ。
+13,audio/output_8ta.wav,Long Prolongation/Continuation with SP,Buka<LG-PR>resuto deshi<SP> ta kke,ブカーーーレストでし、たっけ。
+14,audio/output_11q.wav,Prolongation/Restart with SP,Buka<PR><RST>Bukaresuto deshi<SP> ta kke,ブカーブカレストでし、たっけ。
+15,audio/output_34a.wav,Prolongations throughout the Word with SP,Bu<PR>ka<PR>re<PR>su<PR>to<PR> deshi<SP> ta kke,ブーカーレースートーでし、たっけ。
+16,audio/output_6b.wav,Suspension/Continuation with SP,Buka<SP>resuto deshi<SP> ta kke,ブカ、レストでし、たっけ。
+17,audio/output_19a.wav,Long Suspension/Continuation with SP,Buka<LG-SP>resuto deshi<SP> ta kke,ブカ、、、レストでし、たっけ。
+18,audio/output_13a.wav,Suspension/Restart with SP,Buka<SP><RST> Bukaresuto deshi<SP> ta kke,ブカ、ブカレストでし、たっけ。
+19,audio/output_38.wav,Suspensions throughout the Word with SP,Bu<SP>ka<SP>re<SP>su<SP>to<SP> deshi<SP> ta kke,ブ、カ、レ、ス、ト、でし、たっけ。
+20,audio/output_24q.wav,Word-initial Filler with SP,<FILL>Bukaresuto deshi<SP> ta kke,えーブカレストでし、たっけ。
+21,audio/output_31a.wav,Word-initial Long Filler with SP,<LG-FILL>Bukaresuto deshi<SP> ta kke,えーーーブカレストでし、たっけ。
+22,audio/output_27.wav,Word-internal Filler with SP,Buka<FILL>resuto deshi<SP> ta kke,ブカえーレストでし、たっけ。
