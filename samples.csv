@@ -1,4 +1,4 @@
-﻿id,audio,disfluency_pattern,romaji,japanese
+﻿id,audio,disfluency_pattern,romanization,japanese
 1,audio/output_3.wav,Prolongation/Continuation,Buka<PR>resuto deshi ta kke,ブカーレストでしたっけ。
 2,audio/output_17a.wav,Long Prolongation/Continuation,Buka<LG-PR>resuto deshi ta kke,ブカーーーレストでしたっけ。
 3,audio/output_11.wav,Prolongation/Restart,Buka<PR><RST>Bukaresuto deshi ta kke,ブカーブカレストでしたっけ。
